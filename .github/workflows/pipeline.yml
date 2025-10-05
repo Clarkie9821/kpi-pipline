@@ -2,8 +2,11 @@ name: KPI Pipeline
 
 on:
   schedule:
-    - cron: "0 7 * * *"   # runs daily at 07:00 UTC
-  workflow_dispatch:       # allows manual run from the Actions tab
+    - cron: "0 7 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   run-pipeline:
@@ -30,6 +33,6 @@ jobs:
       run: |
         git config user.name "github-actions[bot]"
         git config user.email "github-actions[bot]@users.noreply.github.com"
-        git add kpi_data_*.json
+        git add kpi_data_*.json || echo "No files to add"
         git commit -m "Daily KPI update" || echo "Nothing to commit"
         git push

@@ -1,0 +1,19 @@
+{
+  "company": "TSMC",
+  "kpi": "Manufacturing Sites by Process Node",
+  "records": [
+    {
+      "estimated_completion_date": "2024-12-31",
+      "gte_12nm_sites": 3,
+      "lt_12nm_sites": 5,
+      "source": "https://www.reuters.com/technology/tsmc-build-new-chip-factory-arizona-2021-11-10/"
+    },
+    {
+      "estimated_completion_date": "2023-09-30",
+      "gte_12nm_sites": 1,
+      "lt_12nm_sites": 2,
+      "source": "https://www.tsmc.com/english/newsEvents/press_releases/detail/2023/03/23/tsmc-global-foundry-expansion-2023"
+    }
+  ],
+  "last_updated": "2023-10-01"
+}

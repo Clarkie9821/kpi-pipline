@@ -1,0 +1,19 @@
+{
+  "company": "TSMC",
+  "kpi": "Manufacturing Sites by Process Node",
+  "records": [
+    {
+      "estimated_completion_date": "2024-12-31",
+      "gte_12nm_sites": 3,
+      "lt_12nm_sites": 5,
+      "source": "https://www.reuters.com/technology/tsmc-plans-accelerate-capacity-expansion-2023-04-20/"
+    },
+    {
+      "estimated_completion_date": "2025-12-31",
+      "gte_12nm_sites": 2,
+      "lt_12nm_sites": 3,
+      "source": "https://www.bbc.com/news/technology-58971159"
+    }
+  ],
+  "last_updated": "2023-10-01"
+}

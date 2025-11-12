@@ -1,0 +1,25 @@
+{
+  "company": "TSMC",
+  "kpi": "Manufacturing Sites by Process Node",
+  "records": [
+    {
+      "estimated_completion_date": "2025-12-31",
+      "gte_12nm_sites": 3,
+      "lt_12nm_sites": 5,
+      "source": "https://www.reuters.com/technology/tsmc-plans-build-new-chip-factory-usa-report-2021-06-23/"
+    },
+    {
+      "estimated_completion_date": "2024-12-31",
+      "gte_12nm_sites": 2,
+      "lt_12nm_sites": 3,
+      "source": "https://www.bbc.com/news/business-58957463"
+    },
+    {
+      "estimated_completion_date": "2026-12-31",
+      "gte_12nm_sites": 4,
+      "lt_12nm_sites": 7,
+      "source": "https://www.techspot.com/news/92926-tsmc-expand-its-5nm-production-china.html"
+    }
+  ],
+  "last_updated": "2023-10-31"
+}

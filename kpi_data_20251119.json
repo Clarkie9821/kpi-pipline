@@ -1,0 +1,13 @@
+{
+  "company": "TSMC",
+  "kpi": "Manufacturing Sites by Process Node",
+  "records": [
+    {
+      "estimated_completion_date": "2024-06-30",
+      "gte_12nm_sites": 3,
+      "lt_12nm_sites": 5,
+      "source": "https://www.reuters.com/business/technology/tsmc-join-mini-led-business-2023-09-29/"
+    }
+  ],
+  "last_updated": "2023-10-01"
+}

@@ -1,0 +1,13 @@
+{
+  "company": "TSMC",
+  "kpi": "Manufacturing Sites by Process Node",
+  "records": [
+    {
+      "estimated_completion_date": "2024-12-31",
+      "gte_12nm_sites": 3,
+      "lt_12nm_sites": 7,
+      "source": "https://www.reuters.com/business/energy/chipmaking-giant-tsmc-expected-establish-manufacturing-plant-arizona-report-2022-11-21/"
+    }
+  ],
+  "last_updated": "2023-10-01"
+}

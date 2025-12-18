@@ -1,0 +1,13 @@
+{
+  "company": "TSMC",
+  "kpi": "Manufacturing Sites by Process Node",
+  "records": [
+    {
+      "estimated_completion_date": "2025-12-31",
+      "gte_12nm_sites": 4,
+      "lt_12nm_sites": 6,
+      "source": "https://www.tomshardware.com/news/tsmc-manufacturing-expansion-plans-2023"
+    }
+  ],
+  "last_updated": "2023-10-05"
+}

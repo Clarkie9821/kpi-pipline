@@ -1,0 +1,13 @@
+{
+  "company": "TSMC",
+  "kpi": "Manufacturing Sites by Process Node",
+  "records": [
+    {
+      "estimated_completion_date": "2025-12-31",
+      "gte_12nm_sites": 4,
+      "lt_12nm_sites": 6,
+      "source": "https://www.reuters.com/technology/tsmc-breaks-ground-new-chip-facility-us-hopes-soon-2021-11-10/"
+    }
+  ],
+  "last_updated": "2023-10-31"
+}

@@ -1,0 +1,13 @@
+{
+  "company": "TSMC",
+  "kpi": "Manufacturing Sites by Process Node",
+  "records": [
+    {
+      "estimated_completion_date": "2023-12-31",
+      "gte_12nm_sites": 4,
+      "lt_12nm_sites": 6,
+      "source": "https://www.reuters.com/technology/tsmc-invest-88-billion-over-three-years-2022-10-12/"
+    }
+  ],
+  "last_updated": "2023-10-20"
+}

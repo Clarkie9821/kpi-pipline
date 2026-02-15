@@ -1,0 +1,13 @@
+{
+  "company": "TSMC",
+  "kpi": "Manufacturing Sites by Process Node",
+  "records": [
+    {
+      "estimated_completion_date": "2024-12-31",
+      "gte_12nm_sites": 3,
+      "lt_12nm_sites": 5,
+      "source": "https://www.reuters.com/technology/tsmc-confirms-plan-build-new-factory-us-2022-11-18/"
+    }
+  ],
+  "last_updated": "2023-10-11"
+}
